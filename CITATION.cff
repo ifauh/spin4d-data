@@ -1,0 +1,84 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Critical Early DKIST Science: Spectropolarimetric Inversion in Four Dimensions with Deep Learning Data Release 1
+message: >-
+  Open data and open source access via https://github.com/ifauh/spin4d-data.
+type: software
+authors:
+  - given-names: KAI E.
+    family-names: YANG (杨凯)
+    affiliation: ' Institute for Astronomy, University of Hawai‘i at Manoa, Pukalani, HI 96768, USA'
+  - given-names: LUCAS A.
+    family-names: TARR
+    affiliation: 'National Solar Observatory, Pukalani, HI 96768, USA'
+  - given-names: MATTHIAS
+    family-names: REMPEL
+    affiliation: >-
+      High Altitude Observatory, NSF National Center for
+      Atmospheric Research, Boulder, CO 80307, USA
+  - given-names: S. CURT
+    family-names: DODDS
+    affiliation: >-
+      Institute for Astronomy, University of Hawai‘i at
+      Manoa, Honolulu, HI 96822, USA
+  - given-names: SARAH A.
+    family-names: JAEGGLI
+    affiliation: '2National Solar Observatory, Pukalani, HI 96768, USA'
+  - given-names: PETER
+    family-names: SADOWSKI
+    affiliation: >-
+      Department of Information and Computer Sciences,
+      University of Hawai‘i at Manoa, Honolulu, HI 96822,
+      USA
+  - given-names: THOMAS A.
+    family-names: SCHAD
+    affiliation: 'National Solar Observatory, Pukalani, HI 96768, USA'
+  - given-names: IAN
+    family-names: CUNNYNGHAM
+    affiliation: >-
+      Institute for Astronomy, University of Hawai‘i at
+      Manoa, Honolulu, HI 96822, USA
+  - given-names: JIAYI
+    family-names: LIU (刘嘉奕)
+    affiliation: >-
+      Institute for Astronomy, University of Hawai‘i at
+      Manoa, Honolulu, HI 96822, USA
+  - given-names: YANNIK
+    family-names: GLASER
+    affiliation: >-
+      Department of Information and Computer Sciences,
+      University of Hawai‘i at Manoa, Honolulu, HI 96822,
+      USA
+  - given-names: XUDONG
+    family-names: XUDONG SUN (孙旭东)
+    affiliation: >-
+      Institute for Astronomy, University of Hawai‘i at
+      Manoa, Pukalani, HI 96768, USA
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2407.20309'
+    description: 'Paper accompanying Data Release 1 '
+repository-code: 'https://github.com/ifauh/spin4d-data'
+url: 'https://ifauh.github.io/SPIN4D/'
+repository-artifact: 'http://dtn-itc.ifa.hawaii.edu/spin4d/DR1/'
+abstract: >-
+  This is the data repository for the Critical Early DKIST
+  Science: Spectropolarimetric Inversion in Four Dimensions
+  with Deep Learning (SPIN4D)*. Our first data release,
+  "Data Release 1" (SPIN4D-DR1), is a subset of 109TB of
+  simulations that accompany our first paper. We performed
+  simulations of the small-scale dynamo actions that are
+  prevalent in quiet-Sun and plage regions using Rempel's
+  2014 version of the Max-Planck University-of-Chicago
+  Radiative MHD code (MURaM).
+keywords:
+  - solar physics
+  - Magnetic fields
+  - Solar photosphere
+  - Spectropolarimetry
+  - Convolutional neural networks
+  - Magnetohydrodynamical simulations
+  - MURaM quiet sun
