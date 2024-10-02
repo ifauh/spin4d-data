@@ -32,11 +32,11 @@ Simulations of the small-scale dynamo actions that are prevalent in quiet-Sun an
 
 ## Project members
 -    Institute for Astronomy, University of Hawai‘i at Manoa
-  -     KAI E. YANG (杨凯)
-  -     S. CURT DODDS
-  -     IAN CUNNYNGHAM
-  -     JIAYI LIU (刘嘉奕)
-  -     XUDONG SUN (孙旭东) (PI)
+  -    KAI E. YANG (杨凯)
+  -    S. CURT DODDS
+  -    IAN CUNNYNGHAM
+  -    JIAYI LIU (刘嘉奕)
+  -    XUDONG SUN (孙旭东) (PI)
 -    High Altitude Observatory, NSF National Center for Atmospheric Research
   -     MATTHIAS REMPEL
 -    National Solar Observatory
