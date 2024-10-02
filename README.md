@@ -31,19 +31,19 @@ The SPIn4D project was performed by a group of researchers at the Institute for 
 Simulations of the small-scale dynamo actions that are prevalent in quiet-Sun and plage regions were performed at the NCAR-Wyoming Supercomputing Center (NWSC) using Matthias Rempel's 2014 version of the Max-Planck University-of-Chicago Radiative MHD code (MURaM). For a complete description of the simulation and data read the [paper](https://arxiv.org/pdf/2407.20309).
 
 ## Project members
--    Institute for Astronomy, University of Hawai‘i at Manoa
+- Institute for Astronomy, University of Hawai‘i at Manoa
     - KAI E. YANG (杨凯)
     - S. CURT DODDS
     - IAN CUNNYNGHAM
     - JIAYI LIU (刘嘉奕)
     - XUDONG SUN (孙旭东) (PI)
--    High Altitude Observatory, NSF National Center for Atmospheric Research
+- High Altitude Observatory, NSF National Center for Atmospheric Research
     - MATTHIAS REMPEL
--    National Solar Observatory
+- National Solar Observatory
     - LUCAS A. TARR
     - SARAH A. JAEGGLI
     - THOMAS A. SCHAD
--    Department of Information and Computer Sciences, University of Hawai‘i at Manoa
+- Department of Information and Computer Sciences, University of Hawai‘i at Manoa
     - PETER SADOWSKI
     - YANNIK GLASER
 
